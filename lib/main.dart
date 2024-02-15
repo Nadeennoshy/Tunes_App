@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:tunes_app/views/home_view.dart';
 
-void main(){
-  runApp(TunesApp());
+void main() {
+  runApp(const TunesApp());
 }
 
 class TunesApp extends StatelessWidget {
@@ -11,6 +12,7 @@ class TunesApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
+      home: HomeView(),
     );
   }
 }
