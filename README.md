@@ -11,3 +11,10 @@ In this project, I learned how to use the following:
 
 ## Screenshots
 ![Screenshot_20240229-032219](https://github.com/Nadeennoshy/Tunes_App/assets/70576667/c8154309-e4b6-4764-b540-4dcadb4a701f)
+
+
+## Video
+
+https://github.com/Nadeennoshy/Tunes_App/assets/70576667/8f9e3dd4-48ef-4109-8114-e30d152477e8
+
+
